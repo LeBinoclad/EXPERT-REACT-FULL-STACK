@@ -1,0 +1,38 @@
+
+.App {
+  text-align: center;
+  background-color: whitesmoke;
+  height: 16cm;
+  width: 33.3cm;
+  box-sizing: border-box;
+  padding: 50px 90px 90px;
+  margin: 10px;
+  border-radius: 10px;
+}
+input{
+  height: 1px;
+}
+.zone1{
+  background-color: white;
+  height: 13cm;
+  box-sizing: border-box;
+  padding: 18px 10px 10px;
+  border-radius: 10px;
+  text-align: center;
+  align-content: center;
+}
+.cadrant{
+  background-color: black;
+  color: white;
+  height: 12cm;
+  width: 29cm;
+  box-sizing: border-box;
+  padding-top: 50px;
+}
+
+
+
+
+
+
+
