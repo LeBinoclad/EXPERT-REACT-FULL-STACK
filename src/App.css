@@ -2,8 +2,8 @@
 .App {
   text-align: center;
   background-color: whitesmoke;
-  height: 16cm;
-  width: 33.3cm;
+  height: 20cm;
+  width: 37cm;
   box-sizing: border-box;
   padding: 50px 90px 90px;
   margin: 10px;
@@ -11,6 +11,12 @@
 }
 input{
   height: 1px;
+}
+#deco{
+  background-position: left center;
+  text-align: center;
+  background-color: teal;
+  
 }
 .zone1{
   background-color: white;
@@ -25,14 +31,46 @@ input{
   background-color: black;
   color: white;
   height: 12cm;
-  width: 29cm;
+  width: 31.5cm;
   box-sizing: border-box;
   padding-top: 50px;
 }
 
+label#Date{
+  height: 1cm;
+  box-sizing: border-box;
+  padding-bottom: 0.5cm;
+}
 
+label#Horloge{
+  height: 1cm;
+  margin: 500px;
+}
 
+input{
+  width: 2cm;
+  height: 0.5cm;
+  margin-right: 1cm;
+}
 
+div#contenu{
+  background-color: turquoise;
+  display:none;
+  height: 5cm;
+  width: 13cm;
+  border-radius: 10px;
+}
 
-
+button#Changer, button#Annuler{
+  height: 1cm;
+  width: 3cm;
+  background-position-y: bottom;
+}
+button#Annuler{
+  margin: 2.5cm 5px 5px 5cm;
+}
+button#Changer{
+  margin-top: 2.5cm;
+  margin-right: 5px;
+}
 
