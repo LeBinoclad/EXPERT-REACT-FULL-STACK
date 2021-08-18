@@ -60,7 +60,7 @@ class Clock extends React.Component{
   }
   mois_form(event){
     this.mm = event.target.value;
-    this.mm = parseInt(this.mm);
+    this.mm = parseInt(this.mm) - 1;
   }
   annee_form(event){
     this.aa = event.target.value;
