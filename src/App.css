@@ -2,12 +2,13 @@
 .App {
   text-align: center;
   background-color: whitesmoke;
-  height: 20cm;
-  width: 37cm;
+  height: 21.1cm;
+  width: 42cm;
   box-sizing: border-box;
-  padding: 50px 90px 90px;
+  padding: 130px 90px 90px;
   margin: 10px;
   border-radius: 10px;
+  
 }
 input{
   height: 1px;
@@ -31,20 +32,19 @@ input{
   background-color: black;
   color: white;
   height: 12cm;
-  width: 31.5cm;
+  width: 36.5cm;
   box-sizing: border-box;
   padding-top: 50px;
 }
 
 label#Date{
   height: 1cm;
-  box-sizing: border-box;
-  padding-bottom: 0.5cm;
+  
 }
 
 label#Horloge{
   height: 1cm;
-  margin: 500px;
+
 }
 
 input{

@@ -43,8 +43,13 @@ class Clock extends React.Component{
     this.annee_form = this.annee_form.bind(this);
     this.heure_form =this.heure_form.bind(this);
     this.minutes_form = this.minutes_form.bind(this);
+    this.Annuler_op = this.Annuler_op.bind(this);
 
     
+  }
+
+  Annuler_op(){
+    this.compteur = 0;
   }
 
   //on déclare la fonction permettant de modifier la date grace aux paramètre que l'utilisateur aura entre
@@ -89,7 +94,7 @@ class Clock extends React.Component{
               this.compteur = this.compteur + 1;
             }
       }  
-    event.preventDefault();
+      event.preventDefault();
   }
    
   //maintenant nous allons ajouter des methodes de cycles de vie
@@ -292,7 +297,7 @@ class Clock extends React.Component{
                         <input type="text" name="minutes"  onChange={this.minutes_form} title="les minutes vont de 0 à 59"/>
                     </label>
                     <br />
-                    <button type="button" id="Annuler" onClick={Cacher} >Annuler</button>
+                    <button type="button" id="Annuler" onClick={this.Annuler_op} >Annuler</button>
                     <button type="submit" id="Changer" >Changer</button>
                 </form>
               </div>
