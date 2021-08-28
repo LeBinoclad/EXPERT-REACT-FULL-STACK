@@ -1,0 +1,31 @@
+#enregistrer{
+  border: 5px solid green;
+  width: 10cm;
+  height: 10cm;
+  border-radius: 10px;
+  box-sizing: border-box;
+  padding: 10px;
+  float: right;
+  margin-right: 5cm;
+  margin-top: 6cm;
+}
+
+#nom, #id, #durée, #prédécesseur, #successeur{
+  float: right;
+  
+}
+#Gérer, #Sauvegarder{
+  margin-top: 5.7cm;
+  
+}
+#Sauvegarder{
+  float:right;
+}
+#gérer{
+  display: none;
+}
+#tousleséléments{
+  color: darkblue;
+  background-color: plum;
+  
+}

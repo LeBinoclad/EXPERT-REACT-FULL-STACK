@@ -1,0 +1,24 @@
+Réaliser un gestionnnaire des taches
+
+le gesionnaire doit être totalement fonctionnel avec la possibilité de : 
+faire une recherche local 
+de marquer les taches comme terminée
+d'ajouter de supprimer et de modifier des taches
+et toutes autre fonctionalité de gestion des taches que vous connaissez
+Le but de ce TP est d'évaluer votre connaissance des concepts suivant: 
+Lists and Keys 
+Forms 
+Lifting State Up
+Composition vs Inheritance 
+Thinking In React
+En d'autre terme, vous ne devez pas juste faire l'appliation de gestionnaire de tache, 
+vous devez également vous rassurer que vous y avez intégré tous ses concepts
+
+
+Ce qui est attendu : 
+Un lien vers le repos git contenant votre projet
+Un lien vers vote projet firebase
+
+Réponse:
+-lien git: https://gitlab.com/wilfriedaudrey.baleba/kiwanda.git
+-lien firebase: https://kiwanda2-be678.web.app
