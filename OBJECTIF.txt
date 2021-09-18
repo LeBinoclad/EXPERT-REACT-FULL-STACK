@@ -1,0 +1,18 @@
+Réaliser un gestionnnaire de livres
+
+le gesionnaire doit être totalement fonctionnel et exhaustif.
+
+Le but de ce TP est d'évaluer votre connaissance de tous les concepts de firebase
+
+En d'autre terme, vous ne devez pas juste faire l'appliation de gestionnaire de livre, 
+vous devez également vous rassurer que vous y avez intégré tous ses concepts
+
+
+
+Ce qui est attendu : 
+Un lien vers le repos git contenant votre projet
+Un lien vers vote projet firebase
+
+Réponse:
+-lien git: https://gitlab.com/wilfriedaudrey.baleba/kiwanda.git
+-lien firebase: https://kiwanda2-be678.web.app kiwanda3-2629b

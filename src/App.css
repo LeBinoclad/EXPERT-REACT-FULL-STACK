@@ -1,0 +1,62 @@
+#Form_connexion{
+  float: left;
+  left: 2cm;
+}
+#Form_connexion1{
+  border: 3px solid grey;
+  border-radius: 5px;
+  box-sizing: border-box;
+  padding: 5px;
+}
+#EmailPhoneCon{
+  float: right;
+}
+#PasswordCon{
+  float: right;
+}
+#Connexion{
+  text-align: center;
+}
+#oublié{
+  text-align: right;
+}
+#Signin{
+  width: 9cm;
+  color: white;
+  background-color: dodgerblue;
+}
+#Form_connexion3{
+  border: 3px solid grey;
+  border-radius: 5px;
+}
+#Form_inscription{
+  float: right;
+  margin-top: 8cm;
+   margin-right: 15cm;
+  width:  10cm;
+  
+}
+#Form_inscription1{
+  border: 3px solid grey;
+  border-radius: 5px;
+  box-sizing: border-box;
+  padding: 10px;
+}
+#IDENTIFICATION{
+  text-align: center;
+}
+#Pseudoins, #Phoneins, #ConfirmPasswordins{
+  float: right;
+}
+#Nomins, #Emailins, #Passwordins{
+  float: left;
+}
+#Annulerins{
+  margin-top: 2cm;
+}
+#Validerins{
+  float: right;
+  margin-top: 2cm;
+  color: white;
+  background-color: dodgerblue;
+}
